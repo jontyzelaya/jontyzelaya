@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](https://github.com/jontyzelaya/jontyzelaya/blob/main/jzbanner.png)
 ### Hi there I´m👋# Jonathan Zelaya Sánchez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jonathan-zelaya-a0b13839/)
